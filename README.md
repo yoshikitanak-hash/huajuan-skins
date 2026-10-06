@@ -6,7 +6,7 @@
 
 > 非官方社区作品，与 OpenAI 没有隶属或背书关系。“Codex”只用于说明适用的软件。
 
-![雾湖来信](previews/mistlake.jpg)
+![雾湖来信，真机截图](previews/real/mistlake-home.jpg)
 
 ## 主题
 
@@ -20,7 +20,18 @@
 | <img src="previews/night.jpg" width="240"> | **夜航** | 灯还亮着，思绪慢慢靠岸 | 深色主题：星空、新月、萤火、提灯的小船 |
 | <img src="previews/mistlake.jpg" width="240"> | **雾湖来信** | 雾还未散，来信已到 | 晨雾湖面的油画，小船上有人在读信 |
 
-预览图是用真实背景和配色画的示意，界面细节以实际效果为准。
+表中预览图是用真实背景和配色画的示意，界面细节以实际效果为准。
+
+### 真机截图
+
+Windows 上的 Codex 桌面版，界面语言为繁体中文。截图里首页的主题名小标签已被作者本机的增强样式隐藏（见下方「说明」）。
+
+| 主题 | 首页 | 对话 |
+| --- | --- | --- |
+| 雾湖来信 | <img src="previews/real/mistlake-home.jpg" width="400"> | <img src="previews/real/mistlake-chat.jpg" width="400"> |
+| 夜航 | <img src="previews/real/night-home.jpg" width="400"> | <img src="previews/real/night-chat.jpg" width="400"> |
+| 青林 | <img src="previews/real/grove-home.jpg" width="400"> | <img src="previews/real/grove-chat.jpg" width="400"> |
+| 纸墨 | | <img src="previews/real/paper-chat.jpg" width="400"> |
 
 ## 安装
 
@@ -62,7 +73,7 @@
 ## 许可
 
 - 代码（`theme.css`、`theme.json` 等）：[MIT](LICENSE)。
-- 画作（背景图与预览图）：[CC BY 4.0](LICENSE-ART.md)。可以自由使用和改编，请注明出处。
+- 画作（背景图、预览图与截图）：[CC BY 4.0](LICENSE-ART.md)。可以自由使用和改编，请注明出处。
 
 ---
 

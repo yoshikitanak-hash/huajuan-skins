@@ -1,0 +1,11 @@
+You are helping Claude Code (CC) on the codex-shell theme project. Task: ONE image edit with your built-in image generation tool, then save the result. No other work, no questions.
+
+Input: folio-in.png (2400x1350). It is a desktop app background. The top-left burnt-orange rough brush disc (with a thin dark arc line around it) and the bottom-left shapes (sage-green dry-brush strokes, a dusty-blue textured triangle, gold curved lines and dots) were shifted right, so they now START at a hard straight vertical cut at about x=640 (27% of the width), and everything left of that is plain ivory paper.
+
+Edit: outpaint the left 27% so the composition continues naturally to the left edge, as if the artwork had always been painted this way:
+- extend the burnt-orange disc leftward so it becomes a natural round sun-like brush shape reaching toward the top-left corner, with the thin dark arc line continuing around it smoothly across the old cut;
+- extend the bottom-left group leftward to the bottom-left corner: continue the sage-green brush strokes and the blue triangle naturally (not duplicated), and let the gold curved line run on toward the left edge;
+- remove every trace of the straight vertical cut.
+Hard rules: NOT a mirror image, no symmetry, no repeated copy of the existing shapes. Keep the right 70% (everything right of x≈720) unchanged: the top-right green and blue shapes, the falling leaves, the dragonfly and vine at bottom-right, the empty paper centre. Same paper texture, same palette (burnt orange, sage green, dusty blue, ivory, gold), same rough dry-brush watercolour style. No text, no UI, no signature. Keep the 16:9 aspect.
+
+Save the edited image as folio-out.png in the current working directory (copy it there from wherever the tool writes it). Then reply with one line: DONE <path> <width>x<height>.
