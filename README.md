@@ -36,7 +36,7 @@ Windows 上的 Codex 桌面版，界面语言为繁体中文。截图里首页�
 ## 安装
 
 1. 安装并启动 [Codex Dream Skin](https://github.com/Fei-Away/Codex-Dream-Skin)。本项目在 v1.5.19 上制作和测试。
-2. 在 [`packages/`](packages/) 下载想要的主题包，比如 `mistlake.zip`。不需要解压。
+2. 在 [Releases](https://github.com/yoshikitanak-hash/huajuan-skins/releases/latest) 页面（或 [`packages/`](packages/) 目录）下载想要的主题包，比如 `mistlake.zip`。不需要解压。
 3. 右键任务栏右下角的 Dream Skin 托盘图标，选「导入主题 ZIP…」，选中刚下载的包。
 4. 在托盘菜单里选择这个主题。
 
@@ -86,7 +86,7 @@ The themes are Paper & Ink (Chinese and English), Folio, Celestial, Grove, Night
 **Install**
 
 1. Install and run Codex Dream Skin (built and tested with v1.5.19).
-2. Download a package from [`packages/`](packages/). Keep it zipped.
+2. Download a package from [Releases](https://github.com/yoshikitanak-hash/huajuan-skins/releases/latest) (or [`packages/`](packages/)). Keep it zipped.
 3. Right-click the Dream Skin tray icon, choose **Import theme ZIP...** and pick the file.
 4. Select the theme from the tray menu.
 
