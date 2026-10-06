@@ -31,7 +31,7 @@ Windows 上的 Codex 桌面版，界面语言为繁体中文。截图里首页�
 | 雾湖来信 | <img src="previews/real/mistlake-home.jpg" width="400"> | <img src="previews/real/mistlake-chat.jpg" width="400"> |
 | 夜航 | <img src="previews/real/night-home.jpg" width="400"> | <img src="previews/real/night-chat.jpg" width="400"> |
 | 青林 | <img src="previews/real/grove-home.jpg" width="400"> | <img src="previews/real/grove-chat.jpg" width="400"> |
-| 纸墨 | | <img src="previews/real/paper-chat.jpg" width="400"> |
+| 纸墨 | <img src="previews/paper.jpg" width="400"><br><sub>示意图：作者本机的首页标题用了增强样式里的楷体，与默认效果不同，所以这里不放真机截图</sub> | <img src="previews/real/paper-chat.jpg" width="400"> |
 
 ## 安装
 
