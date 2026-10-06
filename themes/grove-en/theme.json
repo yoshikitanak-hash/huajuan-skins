@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "codex-shell-grove-en",
+  "name": "Grove",
+  "tagline": "Wind through the trees. Thoughts grow clear.",
+  "projectPrefix": "Project · ",
+  "projectLabel": "Choose a project",
+  "image": "background.jpg",
+  "appearance": "light",
+  "art": {
+    "focusX": 0.7,
+    "focusY": 0.55,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#eef0e6",
+    "panel": "#faf8f0",
+    "panelAlt": "#f5f2e8",
+    "accent": "#2f5a43",
+    "accentAlt": "#2a5440",
+    "secondary": "#3d6a80",
+    "highlight": "#7f6219",
+    "text": "#1f2b24",
+    "muted": "#5c695f",
+    "line": "rgba(31, 43, 36, .11)"
+  }
+}

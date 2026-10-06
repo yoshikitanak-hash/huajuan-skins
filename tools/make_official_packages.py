@@ -29,7 +29,8 @@ PROVENANCE = {
     "grove": AI_PAINTED,
     "mistlake": AI_PAINTED + "Mirrored, upscaled and mist-graded on the left by Claude Code. ",
 }
-PROVENANCE["paper-en"] = PROVENANCE["paper"]
+for _base in ("paper", "mistlake", "night", "grove"):
+    PROVENANCE[f"{_base}-en"] = PROVENANCE[_base]
 
 LICENSE_TXT = """Huajuan (画卷) theme package
 https://github.com/yoshikitanak-hash/huajuan-skins

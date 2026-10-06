@@ -1,6 +1,6 @@
 # 画卷 Huajuan
 
-七套艺术主题，让 Codex 桌面版的工作区变成一幅画。需要配合 [Codex Dream Skin](https://github.com/Fei-Away/Codex-Dream-Skin) 使用：下载主题包，在 Dream Skin 里导入，一键换肤。
+七套艺术主题（另有四套英文版），让 Codex 桌面版的工作区变成一幅画。需要配合 [Codex Dream Skin](https://github.com/Fei-Away/Codex-Dream-Skin) 使用：下载主题包，在 Dream Skin 里导入，一键换肤。
 
 [English](#english)
 
@@ -13,12 +13,20 @@
 | | 主题 | 首页文字 | 风格 |
 | --- | --- | --- | --- |
 | <img src="previews/paper.jpg" width="240"> | **纸墨** | 研墨已备，从这里落笔 | 象牙纸、水墨远山、一轮朱日 |
-| <img src="previews/paper-en.jpg" width="240"> | **Paper & Ink** | The ink is ready. Begin here. | 纸墨的英文版 |
 | <img src="previews/folio.jpg" width="240"> | **星笺** | 纸页已展，等一个念头落下 | 米白纸面，橙红、灰绿、雾蓝的几何色块，一只蜻蜓 |
 | <img src="previews/celestial.jpg" width="240"> | **天体** | 远处有星，眼前有一行 | 古典蓝米配色、月相、星图、植物与小鸟 |
 | <img src="previews/grove.jpg" width="240"> | **青林** | 风过林间，念头渐渐清明 | 阳光下的林间溪畔，远处小路上的背影 |
 | <img src="previews/night.jpg" width="240"> | **夜航** | 灯还亮着，思绪慢慢靠岸 | 深色主题：星空、新月、萤火、提灯的小船 |
 | <img src="previews/mistlake.jpg" width="240"> | **雾湖来信** | 雾还未散，来信已到 | 晨雾湖面的油画，小船上有人在读信 |
+
+**英文版**：画面和样式与中文版相同，只有名称和首页文字是英文。
+
+| | 主题 | 首页文字 |
+| --- | --- | --- |
+| <img src="previews/mistlake-en.jpg" width="240"> | **Mist Lake Letter** | The mist lingers. A letter has come. |
+| <img src="previews/night-en.jpg" width="240"> | **Night Voyage** | The lamp is still on. Thoughts drift ashore. |
+| <img src="previews/grove-en.jpg" width="240"> | **Grove** | Wind through the trees. Thoughts grow clear. |
+| <img src="previews/paper-en.jpg" width="240"> | **Paper & Ink** | The ink is ready. Begin here. |
 
 表中预览图是用真实背景和配色画的示意，界面细节以实际效果为准。
 
@@ -51,6 +59,9 @@ Windows 上的 Codex 桌面版，界面语言为繁体中文。截图里首页�
 | 青林 | `grove.zip` |
 | 夜航 | `night.zip` |
 | 雾湖来信 | `mistlake.zip` |
+| Mist Lake Letter | `mistlake-en.zip` |
+| Night Voyage | `night-en.zip` |
+| Grove（英文） | `grove-en.zip` |
 
 每个包旁边的 `.sha256` 文件是校验值，可以用来确认下载完整。
 
@@ -83,7 +94,16 @@ Windows 上的 Codex 桌面版，界面语言为繁体中文。截图里首页�
 
 **Huajuan (画卷, "painted scroll")**: seven art themes for the Codex desktop app, for use with [Codex Dream Skin](https://github.com/Fei-Away/Codex-Dream-Skin). This is an unofficial community project, not affiliated with or endorsed by OpenAI.
 
-The themes are Paper & Ink (Chinese and English), Folio, Celestial, Grove, Night (dark) and Mist Lake Letter. Their home-page lines are in Chinese, except Paper & Ink (English).
+English editions (same art and styling, English name and home-page line):
+
+| Theme | Home-page line | Package |
+| --- | --- | --- |
+| Mist Lake Letter | The mist lingers. A letter has come. | `mistlake-en.zip` |
+| Night Voyage (dark) | The lamp is still on. Thoughts drift ashore. | `night-en.zip` |
+| Grove | Wind through the trees. Thoughts grow clear. | `grove-en.zip` |
+| Paper & Ink | The ink is ready. Begin here. | `paper-en.zip` |
+
+Chinese editions: Mist Lake Letter, Night, Grove, Paper & Ink, plus Folio and Celestial.
 
 **Install**
 
