@@ -12,7 +12,7 @@ import zipfile
 ROOT = pathlib.Path(__file__).resolve().parent.parent
 CREATED_AT = "2026-10-06T00:00:00Z"
 VERSION = "1.0.0"
-SOURCE = "Source and credits: github.com/yoshikitanak-hash/huajuan-skins"
+SOURCE = "Tested on Windows; macOS not yet tested. Source and credits: https://github.com/yoshikitanak-hash/huajuan-skins"
 MEDIA = {".json": "application/json", ".css": "text/css", ".jpg": "image/jpeg",
          ".png": "image/png", ".webp": "image/webp", ".txt": "text/plain"}
 
