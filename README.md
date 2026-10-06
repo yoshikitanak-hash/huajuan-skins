@@ -56,7 +56,7 @@ Windows 上的 Codex 桌面版，界面语言为繁体中文。截图里首页�
 
 ## 说明
 
-- 每个主题包只有三个文件：`theme.json`（名称、文字、配色）、`theme.css`（样式）和一张背景图，都符合 Dream Skin 的安全样式规则。`themes/` 目录里是同样的文件，方便直接查看。
+- 主题包是 Dream Skin 的标准格式，dreamskin.cc 的工作室也能直接导入。包里有 `theme.json`（名称、文字、配色）、`theme.css`（样式）、一张背景图，以及 `manifest.json`（版本、许可、AI 生成说明、文件校验值）和 `LICENSE.txt`。样式都符合 Dream Skin 的安全样式规则。`themes/` 目录里是同样的主题文件，方便直接查看；`tools/make_official_packages.py` 用来重新打包。
 - 背景是 16:9 的宽图，Dream Skin 会让画面铺满整个窗口，侧栏为半透明。
 - 对话字体沿用 Codex 自带的字体，不另外打包字体。
 - 夜航是深色主题。Dream Skin 通常会自动切换 Codex 的深色外观。如果设置页的按钮或下拉框发白，到 Codex 设置的「外观」里手动选深色。
@@ -94,7 +94,7 @@ The themes are Paper & Ink (Chinese and English), Folio, Celestial, Grove, Night
 
 **Notes**
 
-- Each package holds exactly three files (`theme.json`, `theme.css`, one background), all within Dream Skin's safe-CSS rules.
+- Packages use Dream Skin's official format (`manifest.json` with licence, AI-provenance and checksums, plus `theme.json`, `theme.css`, one background and `LICENSE.txt`), so they also import into the dreamskin.cc Studio. All styling stays within Dream Skin's safe-CSS rules.
 - The backgrounds are 16:9, so Dream Skin shows the art across the whole window behind a translucent sidebar.
 - Night is a dark theme. If controls on the settings page look white, set Codex's appearance to dark.
 - Tested mainly on Windows at 2560×1440; macOS is untested.
