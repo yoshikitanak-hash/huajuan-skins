@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "codex-shell-folio",
+  "name": "星笺",
+  "tagline": "纸页已展，等一个念头落下",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "选择项目",
+  "image": "background.webp",
+  "appearance": "light",
+  "art": {
+    "focusX": 0.6,
+    "focusY": 0.5,
+    "safeArea": "none",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#f1ebde",
+    "panel": "#f8f4eb",
+    "panelAlt": "#f5f1e7",
+    "accent": "#b04826",
+    "accentAlt": "#9c3f1c",
+    "secondary": "#44627f",
+    "highlight": "#566f45",
+    "text": "#2b2824",
+    "muted": "#6c6457",
+    "line": "rgba(43, 40, 36, .12)"
+  }
+}

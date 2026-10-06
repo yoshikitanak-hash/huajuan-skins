@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "codex-shell-celestial",
+  "name": "天体",
+  "tagline": "远处有星，眼前有一行",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "选择项目",
+  "image": "background.webp",
+  "appearance": "light",
+  "art": {
+    "focusX": 0.6,
+    "focusY": 0.5,
+    "safeArea": "none",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#efebe3",
+    "panel": "#f7f4ed",
+    "panelAlt": "#f4f1ea",
+    "accent": "#2c3b59",
+    "accentAlt": "#3d5078",
+    "secondary": "#4a5f86",
+    "highlight": "#86622a",
+    "text": "#1f2534",
+    "muted": "#606778",
+    "line": "rgba(36, 49, 76, .12)"
+  }
+}

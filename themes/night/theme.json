@@ -1,0 +1,28 @@
+{
+  "schemaVersion": 1,
+  "id": "codex-shell-night",
+  "name": "夜航",
+  "tagline": "灯还亮着，思绪慢慢靠岸",
+  "projectPrefix": "选择项目 · ",
+  "projectLabel": "选择项目",
+  "image": "background.webp",
+  "appearance": "dark",
+  "art": {
+    "focusX": 0.72,
+    "focusY": 0.6,
+    "safeArea": "left",
+    "taskMode": "ambient"
+  },
+  "colors": {
+    "background": "#070a1f",
+    "panel": "#0f1527",
+    "panelAlt": "#060919",
+    "accent": "#f5bd62",
+    "accentAlt": "#f4c27a",
+    "secondary": "#84d3c4",
+    "highlight": "#b9a6f5",
+    "text": "#e6e9f4",
+    "muted": "#949db6",
+    "line": "rgba(255, 255, 255, .09)"
+  }
+}
